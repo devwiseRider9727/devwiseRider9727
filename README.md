@@ -1,16 +1,16 @@
-## Hi there 👋
+# G'day mate 🦘
 
-<!--
-**devwiseRider9727/devwiseRider9727** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **devwiseRider9727**, a web3 developer.
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎨 Code is poetry
+- 🐛 Bug hunter by night
+
+## Tech
+
+`Rust` `Svelte` `TypeScript` `Gin` `Kubernetes` `Spring`
+
+---
+
+_Just here for the merge._
